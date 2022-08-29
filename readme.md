@@ -1,4 +1,4 @@
-# These dataset are collected form https://github.com/subtchallenge/virtual_ground_truth
+# These dataset are collected form [subtchallenge](https://github.com/subtchallenge/virtual_ground_truth)
 # Datasets 
 
 These datasets include scans of subterranean environments, robot mapping collections, etc.
