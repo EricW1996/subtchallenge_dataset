@@ -3,31 +3,31 @@
 
 These datasets include scans of subterranean environments, robot mapping collections, etc.
 
-### [Tunnel Circuit Ground Truth](https://github.com/subtchallenge/systems_tunnel_ground_truth)
+### [Tunnel Circuit Ground Truth](https://github.com/EricW1996/systems_tunnel_ground_truth-master)
 
 Scan data of the Systems Competition courses at the NIOSH mine in Pittsburgh, PA collected by DARPA.
 
 Tags: `tunnel`, `environment`
 
-### [Urban Circuit Ground Truth](https://github.com/subtchallenge/systems_urban_ground_truth)
+### [Urban Circuit Ground Truth](https://github.com/EricW1996/systems_urban_ground_truth-main)
 
 Scan data of the Systems Competition courses at the Satsop Nuclear Power Plant in Elma, WA collected by DARPA.
 
 Tags: `urban`, `environment`
 
-### [Final Event Ground Truth](https://github.com/subtchallenge/systems_finals_ground_truth)
+### [Final Event Ground Truth](https://github.com/EricW1996/systems_finals_ground_truth-master)
 
 Scan data of the Systems Competition course at the Louisville Megacavern in Louisville, KY collected by DARPA.
 
 Tags: `finals`, `environment`
 
-### [Virtual Ground Truth](https://github.com/subtchallenge/virtual_ground_truth)
+### [Virtual Ground Truth](https://github.com/EricW1996/virtual_ground_truth-main)
 
 Point cloud data sampled from the Virtual Competition world meshes.
 
 Tags: `tunnel`, `urban`, `cave`, `finals`, `simulation 🖥️`
 
-### [SubT Reference Datasets](https://github.com/subtchallenge/tunnel_urban_reference_datasets)
+### [SubT Reference Datasets](https://github.com/EricW1996/tunnel_urban_reference_datasets-master)
 
 Robot data collected by the Army Research Laboratory in the Systems Competition courses at STIX, Tunnel Circuit, and Urban Circuit events. The data includes rosbags with LIDAR, camera, odometry, and mapping data as robots were teleoperated through the courses to known artifact locations.
 
